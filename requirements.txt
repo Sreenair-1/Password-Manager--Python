@@ -1,0 +1,5 @@
+pyasn1==0.6.1
+pyperclip==1.9.0
+python-dotenv==1.1.1
+rsa==4.9.1
+tk==0.1.0
